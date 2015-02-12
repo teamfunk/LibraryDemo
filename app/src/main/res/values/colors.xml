@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="amber_900">#ff6f00</color>
+    <color name="amber_700">#ffa000</color>
+    <color name="red_800">#c41411</color>
+    <color name="red_400">#e84e40</color>
+    <color name="half_white">#CCFFFFFF</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#ffffff</color>
+    <color name="white_pressed">#f1f1f1</color>
+</resources>
