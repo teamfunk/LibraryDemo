@@ -67,6 +67,7 @@
             fab:fab_colorNormal="@color/white"
             fab:fab_colorPressed="@color/white_pressed"
             fab:fab_title="Android SVG Library"
+            fab:fab_icon="@android:drawable/star_off"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
 
@@ -75,6 +76,7 @@
             fab:fab_colorNormal="@color/white"
             fab:fab_colorPressed="@color/white_pressed"
             fab:fab_title="Apache Commons Lang"
+            fab:fab_icon="@android:drawable/star_off"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
 
